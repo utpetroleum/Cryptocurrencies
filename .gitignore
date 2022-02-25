@@ -1,3 +1,7 @@
+# files to ignore
+Module_18
+Challenge_Starter_Code
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
